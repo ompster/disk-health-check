@@ -4,6 +4,8 @@ PowerShell script that monitors SMART disk health using [smartmontools](https://
 
 Designed for **Datto RMM** (writes results to UDF custom fields) but works perfectly as a standalone script on any Windows machine.
 
+📝 **[Read the full blog post](https://nathanash.com/blog/disk-health-check/)** for a deep dive into how it works.
+
 ## Features
 
 - **Auto-installs smartmontools** if not already present
