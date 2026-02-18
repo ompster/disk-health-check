@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero.png" alt="DiskHealthCheck" width="100%">
+</p>
+
 # DiskHealthCheck
 
 PowerShell script that monitors SMART disk health using [smartmontools](https://www.smartmontools.org/) (`smartctl`). Tracks attributes over time, compares runs, and reports clear health status: **OK**, **Degraded**, or **Failing**.
